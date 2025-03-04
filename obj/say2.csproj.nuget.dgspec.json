@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj": {}
+    "c:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj": {
+    "c:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj",
+        "projectUniqueName": "c:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj",
         "projectName": "say2",
-        "projectPath": "C:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj",
+        "projectPath": "c:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\say2.csproj",
         "packagesPath": "C:\\Users\\Instruktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\obj\\",
+        "outputPath": "c:\\Users\\Instruktor\\Desktop\\CSharp\\day2\\say2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Instruktor\\AppData\\Roaming\\NuGet\\NuGet.Config"

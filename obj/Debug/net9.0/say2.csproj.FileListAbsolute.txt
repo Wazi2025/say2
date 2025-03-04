@@ -12,3 +12,4 @@ C:\Users\Instruktor\Desktop\CSharp\day2\say2\obj\Debug\net9.0\refint\say2.dll
 C:\Users\Instruktor\Desktop\CSharp\day2\say2\obj\Debug\net9.0\say2.pdb
 C:\Users\Instruktor\Desktop\CSharp\day2\say2\obj\Debug\net9.0\say2.genruntimeconfig.cache
 C:\Users\Instruktor\Desktop\CSharp\day2\say2\obj\Debug\net9.0\ref\say2.dll
+C:\Users\Instruktor\Desktop\CSharp\day2\say2\obj\Debug\net9.0\say2.sourcelink.json

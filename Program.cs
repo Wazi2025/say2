@@ -35,8 +35,9 @@ class Program
         //     }
         // }
 
-        // string numberInput = "eleven";
-        // if (int.TryParseParse(numberInput, out, int number))
+        // string numberInput = "11";
+
+        // if (int.TryParse(numberInput, out int number))
         // {
         //     Console.WriteLine($"Our number input is {number}");
         // }
@@ -45,12 +46,18 @@ class Program
         //     Console.WriteLine("The input was not a number!");
         // }
 
-        string userInput = "SpongeBobMeMe";
-        //string cut = userInput.Substring(6, 8);
-        string replaced = userInput.Replace("Sponge", "Patrick");
+        // string userInput = "SpongeBobMeMe";
+        // //string cut = userInput.Substring(6, 8);
+        // string replaced = userInput.Replace("Sponge", "Patrick");
 
-        //Console.WriteLine(userInput);
-        Console.WriteLine(replaced);
-
+        // //Console.WriteLine(userInput);
+        // Console.WriteLine(replaced);
+        int fahrenheit = 94;
+        decimal celsius2 = (fahrenheit - 32m) * (5m / 9m);
+        decimal celcius = (decimal)(fahrenheit - 32m) * 5m / 9m;
+        //decimal celcius = (fahrenheit - 32) * 5 / 9;
+        //Console.WriteLine(message + celcius);
+        Console.WriteLine($"The temperature is {celcius:F2} Celcius"); //F2 formats to decimal places
+        Console.WriteLine($"The temperature is {celsius2} Celcius");
     }
 }
