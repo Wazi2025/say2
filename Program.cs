@@ -52,13 +52,17 @@ class Program
 
         // //Console.WriteLine(userInput);
         // Console.WriteLine(replaced);
-        // int fahrenheit = 94;
-        // decimal celsius2 = (fahrenheit - 32m) * (5m / 9m);
-        // decimal celcius = (decimal)(fahrenheit - 32m) * 5m / 9m;
-        // //decimal celcius = (fahrenheit - 32) * 5 / 9;
-        // //Console.WriteLine(message + celcius);
-        // Console.WriteLine($"The temperature is {celcius:F2} Celcius"); //F2 formats to decimal places
-        // Console.WriteLine($"The temperature is {celsius2} Celcius");
+        int fahrenheit = 94;
+
+
+        decimal celcius = (decimal)(fahrenheit - 32m) * (5m / 9m);
+        decimal celcius2 = (fahrenheit - 32) * 5 / 9;
+        decimal celcius3 = (decimal)(fahrenheit - 32m) * 5m / 9m;
+        //celcius = Math.Round(celcius, 2); //round down to 2 digits
+        //Console.WriteLine(message + celcius);
+        Console.WriteLine($"The temperature is {celcius} Celcius");
+        Console.WriteLine($"The temperature is {celcius2:f2} Celcius2"); //F2 formats to 2 decimal places
+        Console.WriteLine($"The temperature is {celcius3} Celcius3\n");
         // int result = 3 + 1 * 5 / 2;
         // double result2 = 5 / 10;
         // Console.WriteLine($"Result: {result}");
